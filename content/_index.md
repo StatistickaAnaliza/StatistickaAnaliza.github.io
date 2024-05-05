@@ -14,8 +14,19 @@ sections:
       text: |
         <br>
         
-        Treba Vam statistika za projekt?
+        Treba Vam statistika za projekt? <br>
         Analiza podataka za doktorat ili diplomski?
+
+    - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./contact/" cta_text="Kontaktirajte nas →" %}}
+    design:
+      columns: '1'
+
+  
   
   - block: collection
     content:
