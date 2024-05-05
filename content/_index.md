@@ -11,19 +11,7 @@ sections:
       #   Statistička Analiza Podataka
       image:
         filename: business-man-crop.jpeg
-      text: |
-        <br>
-        Treba Vam statistika za projekt? Analiza podataka za doktorat ili diplomski?
-    - block: markdown
-      content:
-        title:
-        subtitle:
-        text: |
-          {{% cta cta_link="./contact/" cta_text="Kontaktirajte nas →" %}}
-      design:
-        columns: '1'
-
-
+      text: Treba Vam statistika za projekt? Analiza podataka za doktorat ili diplomski?
    - block: people
     content:
       title: Meet the Team
