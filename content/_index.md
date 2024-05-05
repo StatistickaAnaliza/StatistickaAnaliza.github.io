@@ -7,10 +7,10 @@ type: landing
 sections:
   - block: hero
     content:
-      title: ''
+      title: 'aaa'
       image:
         filename: business-man-crop.jpeg
-      text: Treba Vam statistika za projekt? Analiza podataka za doktorat ili diplomski?
+      text: Treba Vam statistika za projekt?
   #  - block: people
   #   content:
   #     title: Meet the Team
@@ -29,9 +29,6 @@ sections:
   #     show_interests: false
   #     show_role: true
   #     show_social: true
-
-  
-  
   - block: collection
     content:
       title: Latest News
