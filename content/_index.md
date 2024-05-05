@@ -8,10 +8,9 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Statistička Analiza Podataka
       image:
-        filename: welcome.jpg
+        filename: business-man-crop.jpeg
       text: |
         <br>
         
