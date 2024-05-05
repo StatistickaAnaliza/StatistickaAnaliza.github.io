@@ -13,10 +13,8 @@ sections:
         filename: business-man-crop.jpeg
       text: |
         <br>
-        
         Treba Vam statistika za projekt? <br>
         Analiza podataka za doktorat ili diplomski?
-
     - block: markdown
       content:
         title:
